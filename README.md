@@ -19,8 +19,8 @@ Bibtex
   doi={10.1109/TFUZZ.2024.3359652}
 }
 
-Experimental Setup
-------------------
+##Experimental Setup
+--------------------
 The experimental procedures are executed on a computing system possessing MATLAB R2023a software, Intel(R) Xeon(R) Platinum 8260 CPU @ 2.30GHz, 2301 Mhz, 24 Core(s),
 48 Logical Processor(s) with 256 GB RAM on a Windows-10 operating platform. 
 
