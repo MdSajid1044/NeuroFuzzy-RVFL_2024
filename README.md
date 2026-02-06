@@ -18,9 +18,9 @@ Bibtex
   pages={2738--2749},
   doi={10.1109/TFUZZ.2024.3359652}
 }
-  
+
 Experimental Setup
------------------
+------------------
 The experimental procedures are executed on a computing system possessing MATLAB R2023a software, Intel(R) Xeon(R) Platinum 8260 CPU @ 2.30GHz, 2301 Mhz, 24 Core(s),
 48 Logical Processor(s) with 256 GB RAM on a Windows-10 operating platform. 
 
@@ -44,9 +44,9 @@ relu.m: Code of the relu activation function.
 sigmoid.m: Code of the sigmoid activation function.
 ---------------------------------------------------
 
-The codes are not optimized for efficiency. The codes have been cleaned for better readability and documented and are not exactly the same as used in our paper. 
+``The codes are not optimized for efficiency. The codes have been cleaned for better readability and documented and are not exactly the same as used in our paper. 
 For the detailed experimental setup, please follow the paper. 
-We have re-run and checked the codes only in a few datasets, so if you find any bugs/issues, please write to M. Sajid (phd2101241003@iiti.ac.in).
+We have re-run and checked the codes only in a few datasets, so if you find any bugs/issues, please write to M. Sajid (phd2101241003@iiti.ac.in)."
 
 
 Some parts of the codes have been taken from:
