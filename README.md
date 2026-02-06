@@ -1,10 +1,8 @@
 Please cite the following paper if you are using this code.
 
-Reference
----------------
-```
 M. Sajid, A. K. Malik, M. Tanveer and P. N. Suganthan (2024), "Neuro-Fuzzy Random Vector Functional Link Neural Network for Classification and Regression Problems," in IEEE Transactions on Fuzzy Systems, doi: 10.1109/TFUZZ.2024.3359652.
-```
+
+Paper: https://doi.org/10.1109/TFUZZ.2024.3359652
 
 Bibtex
 ---------------
