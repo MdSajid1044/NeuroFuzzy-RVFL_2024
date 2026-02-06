@@ -38,12 +38,12 @@ Act=5; %Activation Function
 Description of Files
 ---------------------
 ```
-**Neuro_Fuzzy_RVFL_main.m:** This is the main file to run selected models on datasets. In the path variable specificy the path to the folder containing the codes and datasets on which you wish to run the algorithm. 
-**Neuro_Fuzzy_RVFL_train.m:** the main file calls this file for the training and testing process.
-**relu.m:** Code of the relu activation function.
-**sigmoid.m: **Code of the sigmoid activation function.
+Neuro_Fuzzy_RVFL_main.m: This is the main file to run selected models on datasets. In the path variable specificy the path to the folder containing the codes and datasets on which you wish to run the algorithm. 
+Neuro_Fuzzy_RVFL_train.m: the main file calls this file for the training and testing process.
+relu.m: Code of the relu activation function.
+sigmoid.m: Code of the sigmoid activation function.
 
-**Note:** The codes are optimized for efficiency. The codes have been cleaned for better readability. 
+Note: The codes are optimized for efficiency. The codes have been cleaned for better readability. 
 For the detailed experimental setup, please follow the paper. 
 We have re-run and checked the codes only in a few datasets, so if you find any bugs/issues, please write to M. Sajid (phd2101241003@iiti.ac.in).
 ```
@@ -53,5 +53,5 @@ Acknowledgement
 Some parts of the code have been taken from:
 1. Zhang, Le, and Ponnuthurai N. Suganthan. "A comprehensive evaluation of random vector functional link networks." Information Sciences 367 (2016): 1094-1105.
 2. Feng, Shuang, and CL Philip Chen. "Fuzzy broad learning system: A novel neuro-fuzzy model for regression and classification." IEEE transactions on cybernetics 50, no. 2 (2018): 414-424.
-
+```
 29-Feb-2024
