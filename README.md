@@ -38,14 +38,16 @@ Act=5; %Activation Function
 Description of Files
 ---------------------
 ```
-Neuro_Fuzzy_RVFL_main.m: This is the main file to run selected models on datasets. In the path variable specificy the path to the folder containing the codes and datasets on which you wish to run the algorithm. 
-Neuro_Fuzzy_RVFL_train.m: the main file calls this file for the training and testing process.
+Neuro_Fuzzy_RVFL_main.m: This is the main file to run selected models on datasets. In the path variable, specify the path to the folder containing the codes and datasets on which you wish to run the algorithm. 
+Neuro_Fuzzy_RVFL_train.m: the main file calls this file for training and testing.
 relu.m: Code of the relu activation function.
 sigmoid.m: Code of the sigmoid activation function.
 
 Note: The codes are optimized for efficiency. The codes have been cleaned for better readability. 
-For the detailed experimental setup, please follow the paper. 
-We have re-run and checked the codes only in a few datasets, so if you find any bugs/issues, please write to M. Sajid (phd2101241003@iiti.ac.in).
+For the detailed experimental setup, please follow the paper.
+
+We have re-run and checked the codes only in a few datasets,
+so if you find any bugs/issues, please write to M. Sajid (phd2101241003@iiti.ac.in, sajid.mathml@gmail.com).
 ```
 Acknowledgement
 ---------------------
