@@ -2,22 +2,21 @@ Please cite the following paper if you are using this code.
 
 Reference
 ---------------
-M. Sajid, A. K. Malik, M. Tanveer and P. N. Suganthan, "Neuro-Fuzzy Random Vector Functional Link Neural Network for Classification and Regression Problems," in IEEE Transactions on Fuzzy Systems, doi: 10.1109/TFUZZ.2024.3359652.
+M. Sajid, A. K. Malik, M. Tanveer and P. N. Suganthan (2024), "Neuro-Fuzzy Random Vector Functional Link Neural Network for Classification and Regression Problems," in IEEE Transactions on Fuzzy Systems, doi: 10.1109/TFUZZ.2024.3359652.
 
 
 
-Bibtex
-------
+```bibtex
 @ARTICLE{10416391,
-  author={Sajid, M. and Malik, A. K. and Tanveer, M. and Suganthan, P. N.},
+  author={Sajid, M. and Malik, A. K. and Tanveer, M. and Suganthan, Ponnuthurai N.},
   journal={IEEE Transactions on Fuzzy Systems}, 
   title={Neuro-Fuzzy Random Vector Functional Link Neural Network for Classification and Regression Problems}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-13},
-  keywords={Training;Computational modeling;Task analysis;Predictive models;Adaptation models;Optimization;Iterative methods;Random Vector Functional Link (RVFL) Network;Neuro-Fuzzy;Fuzzy Neural Network;Extreme Learning Machine;Interpretability},
-  doi={10.1109/TFUZZ.2024.3359652}}
+  volume={32},
+  number={5},
+  pages={2738--2749},
+  doi={10.1109/TFUZZ.2024.3359652}
+}
   
 Experimental Setup
 -----------------
